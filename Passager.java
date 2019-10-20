@@ -10,6 +10,12 @@ class Passager {
 		
 	}
 	
+	public Passager(){
+	    this.nom = "unknow";
+	    this.contact = "unknow";
+	    
+	}
+	
 	public void showPassager(){
 		System.out.println(this.nom);
 	}

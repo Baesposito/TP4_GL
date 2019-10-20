@@ -11,7 +11,7 @@ public class Client{
 		
 		this.nom = "Unknow";
 		this.contact = "Unknow";
-		this.reference = "123456789"; // à déterminer
+		this.reference = "********"; // à déterminer
 		
 	}
 	
