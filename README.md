@@ -1,5 +1,5 @@
 # TP4_GL
-Fait avec Marie Lora
+Fait par Marie Lora et Baptiste Esposito
 
 Modification de l'UML:
 
